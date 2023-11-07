@@ -1,11 +1,10 @@
 {
   "name": "naturezaviva",
   "version": "1.0.0",
-  "description": "AC de banco",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "nodemon ./naturezaviva.js localhost:3000"
+    "start": "nodemon ./naturezaviva.js localhost:3000"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +14,6 @@
     "express": "^4.18.2",
     "mongoose": "^8.0.0",
     "nodemon": "^3.0.1"
-  }
+  },
+  "description": ""
 }
